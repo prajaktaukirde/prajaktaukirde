@@ -7,27 +7,26 @@ Passionate about building scalable, intelligent, and data-driven systems that so
 ## 🌌 My GitHub Galaxy
 
 <div align="center">
-  <<img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/galaxy-header.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/galaxy-header.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/assets/generated/stats-card.svg" width="850"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/assets/generated/tech-stack.svg" width="850"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/assets/generated/projects-constellation.svg" width="850"/>
 </div>
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
