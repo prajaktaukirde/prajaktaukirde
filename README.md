@@ -2,20 +2,20 @@
 <h3 align="center">Computer Science Student | Aspiring Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Tech&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🌌 GitHub Galaxy Profile
 
-<img src="assets/generated/galaxy-header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/galaxy-header.svg" width="100%"/>
 
-<img src="assets/generated/stats-card.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/stats-card.svg" width="100%"/>
 
-<img src="assets/generated/tech-stack.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/tech-stack.svg" width="100%"/>
 
-<img src="assets/generated/projects-constellation.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/projects-constellation.svg" width="100%"/>
 
 ---
 
