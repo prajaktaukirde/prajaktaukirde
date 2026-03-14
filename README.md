@@ -1,32 +1,33 @@
 # Hi there, I'm Prajakta Ukirde! 👋
 
-**CSE '27 | Cybersecurity Minor | AI/ML & Full-Stack Developer**
+** AI/ML & Full-Stack Developer**
 
 Passionate about building scalable, intelligent, and data-driven systems that solve real-world problems.
 
 ## 🌌 My GitHub Galaxy
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/galaxy-header.svg" width="100%"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/assets/generated/stats-card.svg" width="850"/>
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/assets/generated/tech-stack.svg" width="850"/>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/assets/generated/projects-constellation.svg" width="850"/>
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -35,13 +36,7 @@ Passionate about building scalable, intelligent, and data-driven systems that so
 | **[WebsiteBuilder](https://github.com/prajaktaukirde/WebsiteBuilder)** | Full-stack website builder with modern UI and responsive design | React, Node.js, Express, MongoDB |
 | **[ATM-Simulator-System](https://github.com/prajaktaukirde/ATM-Simulator-System)** | Java ATM simulator with secure PIN auth and SQL database | Java, SQL, OOP |
 
-## 📊 GitHub Stats
 
-- **Total Contributions:** 336
-- **Commits:** 290
-- **Repositories:** 34
-- **Pull Requests:** 3
-- **Issues:** 9
 
 ## 🛠️ Tech Stack
 
