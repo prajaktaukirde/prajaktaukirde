@@ -189,10 +189,13 @@ def _build_project_card(i, proj, arm, color, card_width, card_x, theme):
     # Wrap description to fit card width (approx chars)
     max_chars = int(card_width / 7.5)
     desc_lines = wrap_text(desc, max_chars)
+    # Get GitHub link
+    github_link = proj.get("link", f"https://github.com/{proj['repo']}")
 
     delay = f"{i * 0.3}s"
 
     card_parts = []
+    card_parts.append(f'  <a href="{github_link}" target="_blank" style="text-decoration: none; cursor: pointer;">')
     card_parts.append(f'  <g opacity="0" style="animation: card-appear 0.6s ease {delay} forwards">')
 
     # Card container
@@ -280,6 +283,7 @@ def _build_project_card(i, proj, arm, color, card_width, card_x, theme):
     )
 
     card_parts.append('  </g>')
+    card_parts.append('  </a>')
     return "\n".join(card_parts)
 
 

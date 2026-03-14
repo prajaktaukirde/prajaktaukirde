@@ -116,12 +116,19 @@ class GitHubAPI:
             + contrib["restrictedContributionsCount"]
         )
 
+        total_contributions = (
+            total_commits
+            + user["pullRequests"]["totalCount"]
+            + user["issues"]["totalCount"]
+            + repos["totalCount"]
+        )
         return {
             "commits": total_commits,
             "stars": total_stars,
             "prs": user["pullRequests"]["totalCount"],
             "issues": user["issues"]["totalCount"],
             "repos": repos["totalCount"],
+            "contributions": total_contributions,
         }
 
     def _fetch_stats_rest(self) -> dict:
@@ -157,12 +164,14 @@ class GitHubAPI:
         # Fetch actual issue count via Search API
         issue_count = self._search_count(f"author:{self.username} type:issue")
 
+        total_contributions = commit_count + pr_count + issue_count + user_data.get("public_repos", 0)
         return {
             "commits": commit_count,
             "stars": total_stars,
             "prs": pr_count,
             "issues": issue_count,
             "repos": user_data.get("public_repos", 0),
+            "contributions": total_contributions,
         }
 
     def _paginate_repos(self):

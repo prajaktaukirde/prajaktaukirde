@@ -119,12 +119,20 @@ REPO_ICON = (
     '1.087a.25.25 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2z"/>'
 )
 
+CONTRIBUTIONS_ICON = (
+    '<path d="M1.5 3.25a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5zm13 0a.75.75 0 1 '
+    '1 0-1.5.75.75 0 0 1 0 1.5z"/><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 '
+    '1zm0 2.5a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9z"/><path d="M8 5.5a2.5 2.5 '
+    '0 1 0 0 5 2.5 2.5 0 0 0 0-5z"/>'
+)
+
 METRIC_ICONS = {
     "commits": COMMIT_ICON,
     "stars": STAR_ICON,
     "prs": PR_ICON,
     "issues": ISSUE_ICON,
     "repos": REPO_ICON,
+    "contributions": CONTRIBUTIONS_ICON,
 }
 
 METRIC_LABELS = {
@@ -133,6 +141,7 @@ METRIC_LABELS = {
     "prs": "PRs",
     "issues": "Issues",
     "repos": "Repos",
+    "contributions": "Total Contributions",
 }
 
 METRIC_COLORS = {
@@ -141,6 +150,7 @@ METRIC_COLORS = {
     "prs": "dendrite_violet",
     "issues": "synapse_cyan",
     "repos": "dendrite_violet",
+    "contributions": "axon_amber",
 }
 
 

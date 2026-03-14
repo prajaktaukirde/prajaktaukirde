@@ -1,0 +1,99 @@
+username: prajaktaukirde
+
+profile:
+  name: "Prajakta Ukirde"
+  tagline: "CSE '27 | Cybersecurity Minor | AI/ML & Full-Stack Developer"
+  company: "TrueVows"
+  location: "India"
+  bio: |
+    Computer Science and Engineering student with a Minor in Cybersecurity.
+    Strong foundation in Data Structures, Algorithms, and Software Development.
+    Experienced in building full-stack applications, AI/ML systems, and cloud deployments.
+    Developed AI-powered agricultural advisory system using NLP and RAG with 91%+ accuracy.
+  philosophy: '"Building scalable, intelligent, and data-driven systems that solve real-world problems."'
+
+social:
+  email: "prajakta.ukirde@gmail.com"
+  linkedin: "https://www.linkedin.com/in/prajakta-ukirde-395862381/"
+  portfolio: "https://prajaktaportfolioo.vercel.app/"
+  github: "https://github.com/prajaktaukirde"
+
+galaxy_arms:
+
+  - name: "AI / ML & GenAI"
+    color: "dendrite_violet"
+    items:
+      - "Python"
+      - "TensorFlow"
+      - "RAG"
+      - "LangChain"
+      - "Gemini API"
+      - "Vertex AI"
+      - "NLP"
+
+  - name: "MERN Full-Stack"
+    color: "synapse_cyan"
+    items:
+      - "MongoDB"
+      - "Express.js"
+      - "React.js"
+      - "Node.js"
+      - "Next.js"
+      - "TypeScript"
+      - "Socket.io"
+      - "REST APIs"
+
+  - name: "Cloud, Data & Core"
+    color: "axon_amber"
+    items:
+      - "AWS"
+      - "Google Cloud"
+      - "Oracle Cloud"
+      - "Docker"
+      - "Git & GitHub"
+      - "Power BI"
+      - "Tableau"
+      - "C/C++"
+
+projects:
+  - repo: "prajaktaukirde/AgriNLP"
+    arm: 0
+    description: "sFET - AI agricultural advisory with Fuzzy Logic, RAG, 91.3% accuracy, 80% cost optimization"
+    link: "https://github.com/prajaktaukirde/AgriNLP"
+
+  - repo: "prajaktaukirde/WebsiteBuilder"
+    arm: 1
+    description: "Full-stack website builder with modern UI, responsive design, and deployment capabilities"
+    link: "https://github.com/prajaktaukirde/WebsiteBuilder"
+
+  - repo: "prajaktaukirde/ATM-Simulator-System"
+    arm: 1
+    description: "Java ATM simulator with secure PIN auth, transaction history, SQL database integration"
+    link: "https://github.com/prajaktaukirde/ATM-Simulator-System"
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "contributions"
+    - "commits"
+    - "stars"
+    - "prs"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8

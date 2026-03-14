@@ -72,18 +72,18 @@ def generate(args):
         api = GitHubAPI(username)
 
         logger.info("Fetching stats...")
+        stats = {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
         try:
-            stats = api.fetch_stats()
+            stats.update(api.fetch_stats())
         except (requests.exceptions.RequestException, ValueError, KeyError) as e:
-            logger.warning("Could not fetch stats (%s). Using defaults.", e)
-            stats = {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
+            logger.warning("Could not fetch stats (%s). Using partial/default values.", e)
 
         logger.info("Fetching languages...")
+        languages = {}
         try:
             languages = api.fetch_languages()
         except (requests.exceptions.RequestException, ValueError, KeyError) as e:
             logger.warning("Could not fetch languages (%s). Using defaults.", e)
-            languages = {}
 
     logger.info("Stats: %s", stats)
     logger.info("Languages: %d found", len(languages))
