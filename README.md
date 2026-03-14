@@ -7,7 +7,7 @@ Passionate about building scalable, intelligent, and data-driven systems that so
 ## 🌌 My GitHub Galaxy
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <<img src="https://raw.githubusercontent.com/prajaktaukirde/prajaktaukirde/main/galaxy-header.svg" width="100%"/>
 </div>
 
 <br/>
