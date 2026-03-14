@@ -28,24 +28,6 @@ Passionate about building scalable, intelligent, and data-driven systems that so
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[AgriNLP](https://github.com/prajaktaukirde/AgriNLP)** | sFET - AI agricultural advisory with Fuzzy Logic, RAG, 91.3% accuracy | Python, TensorFlow, RAG, LangChain, React, Node.js |
-| **[WebsiteBuilder](https://github.com/prajaktaukirde/WebsiteBuilder)** | Full-stack website builder with modern UI and responsive design | React, Node.js, Express, MongoDB |
-| **[ATM-Simulator-System](https://github.com/prajaktaukirde/ATM-Simulator-System)** | Java ATM simulator with secure PIN auth and SQL database | Java, SQL, OOP |
-
-
-
-## 🛠️ Tech Stack
-
-**AI / ML & GenAI:** Python, TensorFlow, RAG, LangChain, Gemini API, Vertex AI, NLP
-
-**MERN Full-Stack:** MongoDB, Express.js, React.js, Node.js, Next.js, TypeScript, Socket.io
-
-**Cloud, Data & Core:** AWS, Google Cloud, Oracle Cloud, Docker, Git & GitHub, Power BI, Tableau, C/C++
-
 ## 🔗 Connect With Me
 
 - 📧 Email: prajakta.ukirde@gmail.com
