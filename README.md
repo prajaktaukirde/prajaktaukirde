@@ -36,14 +36,6 @@ Passionate about building scalable, intelligent, and data-driven systems that so
 | **[WebsiteBuilder](https://github.com/prajaktaukirde/WebsiteBuilder)** | Full-stack website builder with modern UI and responsive design | React, Node.js, Express, MongoDB |
 | **[ATM-Simulator-System](https://github.com/prajaktaukirde/ATM-Simulator-System)** | Java ATM simulator with secure PIN auth and SQL database | Java, SQL, OOP |
 
-## 📊 GitHub Stats
-
-- **Total Contributions:** 336
-- **Commits:** 290
-- **Repositories:** 34
-- **Pull Requests:** 3
-- **Issues:** 9
-
 ## 🛠️ Tech Stack
 
 **AI / ML & GenAI:** Python, TensorFlow, RAG, LangChain, Gemini API, Vertex AI, NLP
