@@ -1,6 +1,6 @@
 # Hi there, I'm Prajakta Ukirde! 👋
 
-**CSE '27 | Cybersecurity Minor | AI/ML & Full-Stack Developer**
+ AI/ML & Full-Stack Developer
 
 Passionate about building scalable, intelligent, and data-driven systems that solve real-world problems.
 
